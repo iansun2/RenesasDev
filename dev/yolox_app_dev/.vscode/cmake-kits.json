@@ -1,0 +1,6 @@
+[
+    {
+        "name": "DRP-AI",
+        "toolchainFile": "/drp-ai_tvm/apps/toolchain/runtime.cmake"
+    }
+]
